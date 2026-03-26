@@ -1,0 +1,26 @@
+# Agents Overview
+
+This repository contains modular skills designed for AI agents.
+
+Each skill:
+- has a single responsibility
+- defines inputs and outputs
+- can be chained with others
+
+## Categories
+
+- foundations
+- copy-chief
+- operator-os
+- qa
+- orchestrators
+
+## Usage
+
+Agents should:
+1. Run foundation skills first
+2. Apply copy-chief logic
+3. Execute operator skills
+4. Apply QA pass
+
+Consistency across outputs is required.
